@@ -3,7 +3,7 @@
 
   &#xa0;
 
-  <a href="https://sociallinksprofile.netlify.app">Social Links Profile</a>
+  <a href="https://r00kiead.github.io/Social-links-profile/">Social Links Profile</a>
 </div>
 
 <h1 align="center">Social Links Profile</h1>
